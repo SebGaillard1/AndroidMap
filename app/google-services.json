@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095375041974",
+    "project_id": "mapmarkit",
+    "storage_bucket": "mapmarkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095375041974:android:11ae6f5a1ecd7461783d17",
+        "android_client_info": {
+          "package_name": "com.example.projetmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQG05B0KMgN2c6TOQiclrW5Uh3Gc78-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
